@@ -1,0 +1,11 @@
+Apa yang dimaksud dengan framework pada pengembangan aplikasi?
+
+jawaban : Kerangka kerja (framework) perangkat lunak yang menyediakan struktur dan alat  untuk memfasilitasi proses pengembangan perangkat lunak. (framework) membantu pengembang dengan menyediakan aturan, pedoman, dan alat yang  siap digunakan sehingga mereka tidak harus memulai dari awal setiap kali membangun aplikasi baru.
+
+karakteristik umum framework pada pengembangan aplikasi :
+1. Struktur dasar: Kerangka kerja  menyediakan struktur dasar yang telah ditentukan sebelumnya untuk mengatur kode dan file proyek Anda. Hal ini memungkinkan pengembang untuk fokus pada logika bisnis aplikasi tanpa harus memikirkan struktur dasar setiap saat. 
+2. Alat: Kerangka kerja  menyediakan berbagai alat  dan utilitas untuk membantu pengembang dalam manajemen kode, analisis, dan pengujian. 
+3. Pola Desain: Kerangka kerja sering kali menggunakan pola desain yang telah terbukti efektif dalam pengembangan perangkat lunak. Membantu memecahkan masalah umum dengan metode yang telah terbukti. 
+4. Perpustakaan: Framework biasanya dilengkapi dengan perpustakaan atau modul yang dapat digunakan untuk tugas-tugas umum seperti pemrosesan data, manajemen basis data, dan berinteraksi dengan API. 
+5. Integrasi Mudah: Kerangka kerja  menyediakan cara mudah untuk mengintegrasikan komponen eksternal dan layanan lain seperti database, sistem keamanan, dan layanan pihak ketiga. 
+6. Perkembangan cepat: Kerangka kerja membantu mengembangkan perangkat lunak lebih cepat dengan menyediakan alat dan struktur yang sudah ada sebelumnya sehingga pengembang tidak perlu membangun semuanya dari awal.

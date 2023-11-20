@@ -1,0 +1,29 @@
+1. Sebutkan tema proyek yang sedang digarap!
+
+jawaban : Aplikasi Koperasi Simpan Pinjam Berbasis Web
+
+2. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan 
+jobdesk dari masing-masing anggota!
+
+jawaban : 1. (22416255201250) Dede Khairunnisa Aulia : Angket, laporan dan Tester
+	  2. (22416255201107) Duma Zidny Aritonang   : Development atau progream
+	  3. (22416255201012) Felia Haya Nafiah      : Desain UML atau UI
+
+3. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan 
+client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan 
+bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+
+Jawaban : 
+Permasalahan yang didapat setelah Wawancara : 1. Belum memiliki aplikasi web maupun aplikasi berbasis web.
+					      2. Pengajuan Pinjaman masih Manual.
+					      3. Ketidakpastian Pembayaran Angsuran. 
+					      4. Manajemen Data Anggota yang Tidak Efisien
+					      5. Ketidakjelasan Informasi Keuangan.
+
+Hipotesa Solusi yang akan kami usung : 
+1. Membuatkan Aplikasi Koperasi Simpan Pinjam Berbasis web.
+2. membuatkan fitur Pengajuan Pinjaman di Aplikasi web tersebut.
+3. Membuatkan fitur Pemberitahuan atau pengingat otomatis pada Aplikasi Web tersebut untuk membantu anggota                  mengingatkan pembayaran angsuran mereka. 
+4. Menerapkan sistem manajemen data yang terstruktur untuk memudahkan pencarian, pembaruan, dan pemeliharaan data anggota koperasi.
+5. Menambahkan laporan keuangan yang mudah dimengerti pada aplikasi untuk membantu anggota melacak dan memahami status keuangan mereka.
+
